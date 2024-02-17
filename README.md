@@ -5,7 +5,7 @@
 ---
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" />
 
-<h3 align="left" >About me</h3>
+<h3 align="left" >About me:</h3>
 
 - I’m Computer System Engineering student at Palestine Technical University – Kadoorie
 - 🔭 I’m currently working on front-end projects
