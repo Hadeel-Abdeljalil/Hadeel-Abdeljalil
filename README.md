@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=222&section=header&text=Hi,%20I'm%20Hadeel%20Abdeljalil!%20%F0%9F%91%8B&fontSize=45&colorA=8ECF6E&colorB=61BD4F)
 
-<h3 align="center">Computer Systems Engineering Student</h3>
+<h3 align="center">A Computer Systems Engineering Student</h3>
 
 ---
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" />
