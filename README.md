@@ -68,6 +68,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/>
     </a>
 </p>
+ ***  
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=Hadeel-Abdeljalil&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt = "Hadeel-Abdeljalil's Languages/Frameworks" width = 400 />
+
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=111&section=footer&colorA=8ECF6E&colorB=61BD4F)
