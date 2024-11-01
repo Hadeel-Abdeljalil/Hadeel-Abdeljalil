@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=222&section=header&text=Hi,%20I'm%20Hadeel%20Abdeljalil!%20%F0%9F%91%8B&fontSize=45&colorA=8ECF6E&colorB=61BD4F)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=222&section=header&text=Hi,%20I'm%20Hadeel%20Abdeljaleel!%20%F0%9F%91%8B&fontSize=45&colorA=8ECF6E&colorB=61BD4F)
 
 <h3 align="center">A Computer Systems Engineering Student</h3>
 
